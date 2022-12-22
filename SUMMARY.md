@@ -1,3 +1,3 @@
 # Table of contents
 
-* [Learning Dart](README.md)
+* [Learning Flutter](README.md)
